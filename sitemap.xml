@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://willdonner.com/PY.html</loc>
+    <loc>https://willdonner.com/about.html</loc>
     
-    <lastmod>2020-09-16</lastmod>
+    <lastmod>2020-09-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://willdonner.com/about.html</loc>
+    <loc>https://willdonner.com/PY.html</loc>
     
     <lastmod>2020-09-16</lastmod>
     
@@ -18,7 +18,7 @@
 
   <url>
     <loc>https://willdonner.com/</loc>
-    <lastmod>2020-09-16</lastmod>
+    <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
